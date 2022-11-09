@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>autogroups</name>
+	<displayName><![CDATA[Ajout client groupe automatiquement]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Ajoute le client au groupe en fonction de la carte prise ]]></description>
+	<author><![CDATA[Valentin Duplan]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
